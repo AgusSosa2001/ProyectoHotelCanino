@@ -1,0 +1,23 @@
+C:\Users\Agustina\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\Agustina\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.FrmVentana1.resources
+C:\Users\Agustina\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.FrmIngreseUsuario.resources
+C:\Users\Agustina\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Agustina\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Agustina\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Agustina\AppData\Local\Temporary Projects\Proyecto\obj\Debug\Proyecto.FrmVentana2.resources
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.vbprojAssemblyReference.cache
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.FrmVentana1.resources
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.FrmVentana2.resources
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.Resources.resources
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.GenerateResource.cache
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\bin\Debug\Proyecto.xml
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.xml
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.FrmGerente.resources
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.FrmVentana4.resources
+C:\Users\Agustina\Desktop\ProyectoProg\Proyecto\Proyecto\obj\Debug\Proyecto.FrmVentana5.resources
